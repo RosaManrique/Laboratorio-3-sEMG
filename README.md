@@ -1,5 +1,4 @@
-# Laboratorio-3-sEMG
-# Simulador de sEMG a partir de registros reales 🦾
+# Laboratorio 3: Simulador de sEMG a partir de registros reales
 
 Repositorio con el código fuente y archivos del Laboratorio N.° 3 de Instrumentación Biomédica I (UNMSM).
 
